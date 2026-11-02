@@ -13,3 +13,6 @@ def tower_of_hanoi(n, source, auxiliary, destination):
 n = int(input("Enter the number of disks: "))
 
 tower_of_hanoi(n, 'A', 'B', 'C')
+
+
+""""""
